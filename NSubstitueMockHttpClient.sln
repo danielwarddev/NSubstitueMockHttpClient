@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSubstitueMockHttpClient", "NSubstitueMockHttpClient\NSubstitueMockHttpClient.csproj", "{39E9DA91-A939-4691-BA00-57997DA147F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSubstituteMockHttpClient.UnitTests", "NSubstituteMockHttpClient.UnitTests\NSubstituteMockHttpClient.UnitTests.csproj", "{BB4AB790-FFC4-484B-8CD7-BD366F8D78EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39E9DA91-A939-4691-BA00-57997DA147F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E9DA91-A939-4691-BA00-57997DA147F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E9DA91-A939-4691-BA00-57997DA147F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E9DA91-A939-4691-BA00-57997DA147F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4AB790-FFC4-484B-8CD7-BD366F8D78EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4AB790-FFC4-484B-8CD7-BD366F8D78EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4AB790-FFC4-484B-8CD7-BD366F8D78EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4AB790-FFC4-484B-8CD7-BD366F8D78EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {723109B7-250E-452B-8D1F-423DDCA3FD9A}
+	EndGlobalSection
+EndGlobal
